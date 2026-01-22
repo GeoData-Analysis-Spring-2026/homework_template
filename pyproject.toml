@@ -1,7 +1,7 @@
 [project]
-name = "ert574"
+name = "ert529"
 version = "0.1.0"
-description = "Course materials for ERT574"
+description = "Course materials for ERT529"
 authors = [
     { name = "Yifan Cheng" }
 ]

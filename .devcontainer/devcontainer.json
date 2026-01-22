@@ -1,5 +1,5 @@
 {
-	"name": "ERT474/574 Course Materials",
+	"name": "ERT429/529 Course Materials",
 	"image": "mcr.microsoft.com/devcontainers/python:3.11",
 	"features": {
 		"ghcr.io/va-h/devcontainers-features/uv:1": {},
@@ -17,7 +17,7 @@
 	      ]
 	    }
 	},
-	"postCreateCommand": "./${localWorkspaceFolderBasename}/postbuild.sh && git clone https://github.com/OS-Hydro-Analytics-Fall-2025/CourseMaterials25.git",
+	"postCreateCommand": "./${localWorkspaceFolderBasename}/postbuild.sh && git clone https://github.com/GeoData-Analysis-Spring-2026/CourseMaterials26.git",
 	"customizations": {
 		"vscode": {
 			"extensions": [
